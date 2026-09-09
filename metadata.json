@@ -1,0 +1,6 @@
+{
+  "name": "Holy Quran Pro",
+  "description": "15-Line Hafezi Quran reader with Surah and Para index, offline page caching, zoomable view, and page audio sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
